@@ -1,3 +1,6 @@
+/**
+ * Simple Produce/Consume Container implementation: put acts as Producer, get acts as consumer.
+ */
 package com.Test;
 
 import java.util.LinkedList;
